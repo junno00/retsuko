@@ -1,0 +1,4 @@
+plugins/.credentials/
+plugins/fetch_attendance.py
+plugins/client_secret.json 
+
